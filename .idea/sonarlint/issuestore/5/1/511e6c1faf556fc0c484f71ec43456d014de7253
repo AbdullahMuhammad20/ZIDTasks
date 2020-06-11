@@ -1,0 +1,9 @@
+
+r	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§®¤æşÿÿÿÿ8ÔŠ…ö©.
+j	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂØÚÆ8¾ÁÈõ©.
+r	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(øÿ™çûÿÿÿÿ8Ø½Œö©.
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìê†–şÿÿÿÿ8•¼‡ö©.
+m	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ¥÷×8ù°ö©.
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ºÆßıÿÿÿÿ8ë›‹ö©.
+]	java:S125)"<This block of commented-out lines of code should be removed.(¦ÃÌ·ÿÿÿÿÿ8¿Õø©.
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬¸üûÿÿÿÿ8€¡ö©.

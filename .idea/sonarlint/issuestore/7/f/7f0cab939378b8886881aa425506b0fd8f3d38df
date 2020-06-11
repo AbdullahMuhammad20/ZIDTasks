@@ -1,0 +1,20 @@
+
+r	java:S117S"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ôíµşÿÿÿÿ8 ãÌö©.
+r	java:S117p"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îØ»¡şÿÿÿÿ8áë•õ©.
+j	java:S100`"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İêıá8Ë˜ıô©.
+o	java:S100p"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îØ»¡şÿÿÿÿ8áë•õ©.
+l	java:S116"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—Œ±û8Áµ³ô©.
+y	java:S116"XRename this field "store_name_AR" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Æ³Ÿÿÿÿÿÿ8Áı«ô©.
+w	java:S116"VRename this field "category_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŞŞŸùÿÿÿÿ8Áı«ô©.
+r	java:S117Q"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹óÖ‘ÿÿÿÿÿ8‰İùö©.
+m	java:S117`"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(İêıá8ÊÇşô©.
+}	java:S116"\Rename this field "store_username_EN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛƒÃãûÿÿÿÿ8Áı«ô©.
+	java:S116""eRename this field "registration_discount_code" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â™ôÖ8Áı«ô©.
+j	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÅ¨‰8×Áàô©.
+u	java:S116"TRename this field "full_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Æ‘®ùÿÿÿÿ8Ş®ô©.
+k
+java:S3973["IUse indentation to denote the code conditionally executed by this "else".(„¶áìøÿÿÿÿ8„•Åö©.
+]	java:S107p"<Method has 8 parameters, which is greater than 7 authorized.(îØ»¡şÿÿÿÿ8áë•õ©.
+j	java:S100J"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿƒ8êÇâô©.
+o	java:S100,"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íæ‘İüÿÿÿÿ8É½Áô©.
+r	java:S117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íæ‘İüÿÿÿÿ8É½Áô©.

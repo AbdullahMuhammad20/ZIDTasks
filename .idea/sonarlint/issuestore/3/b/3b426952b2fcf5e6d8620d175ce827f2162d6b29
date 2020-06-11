@@ -1,0 +1,12 @@
+
+h	java:S116"SRename this field "BASE_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×£é»
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(í™ÿ8ßƒè©.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®Â»øüÿÿÿÿ8ç»ºç©.
+m	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(é§¡º8Üâ‹è©.
+0
+java:S1220""Move this file to a named package.
+r	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªøŸŸúÿÿÿÿ8û’–è©.
+m	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÉØŒã8Ÿ»ç©.
+r	java:S117?"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬îŸ”øÿÿÿÿ8µ¨Âñ©.
+m	java:S117!"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ï ÙÑ8¹Š‚è©.
+r	java:S117#"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã‹’¶ıÿÿÿÿ8é¼úç©.
